@@ -1,0 +1,8 @@
+<(.*)> <html><head><title>Title</title>
+<(.*?)> <html><head><title>Title</title>
+([0-9]{3})? 12345678
+([0-9]{3})? test
+f(oo|u)bar foobar
+f(oo|u)bar fooobar
+f(oo|u)bar fubar
+f(oo|u)bar fbar

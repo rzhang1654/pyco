@@ -1,0 +1,8 @@
+\A(?!Q)\w Question
+\A(?!Q)\w question
+\A(?![Qq])\w question
+\A(?!Q)\w answer
+(?!Q)\w Question
+(?!Q)\w question
+(?![Qq])\w question
+(?!Q)\w answer

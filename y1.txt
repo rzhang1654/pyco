@@ -1,0 +1,77 @@
+Item ID:                           131687
+Barcode:                           345500000009906
+Title:                             Whistleblowing : the law of retaliatory discharge / Daniel P. Westman.
+Enum/Chron:                        
+Call Number:                       KF3471 .W47 1991
+Call Number Prefix:                
+Holding Location:                  Circulating collection
+Permanent Location:                Circulating collection
+Temporary Location:                 / Cataloging Dept.
+Permanent Type:                    book
+Temporary Type:                    
+Media Type:                        
+Item Status:                       Not Charged, Withdrawn
+Statistical Categories:            
+Magnetic Media:                    No
+Sensitize:                         Yes
+Free Text:                         wdn:l & p : 10/12/07
+Copy Number:                       1
+Pieces Number:                     1
+Price:                             0.00
+MFHD ID 116223:                    Suppressed
+Bib ID 113269:                     Suppressed
+Update Bib Status:                 N/A
+Update Holding Status:             N/A
+Update Item Status:                Processed.
+
+Item ID:                           131793
+Barcode:                           345500000013964
+Title:                             Dyslexia at college / T.R. Miles and Dorothy E. Gilroy ; with contributions from C.R. Wilsher ... [et al.].
+Enum/Chron:                        
+Call Number:                       LB1050.5 .M514 1986
+Call Number Prefix:                
+Holding Location:                  Circulating collection
+Permanent Location:                Circulating collection
+Temporary Location:                 / Cataloging Dept.
+Permanent Type:                    book
+Temporary Type:                    
+Media Type:                        
+Item Status:                       Not Charged, Withdrawn
+Statistical Categories:            
+Magnetic Media:                    No
+Sensitize:                         Yes
+Free Text:                         wdn p. d. 8/11/00
+Copy Number:                       1
+Pieces Number:                     1
+Price:                             12.95
+MFHD ID 116307:                    Suppressed
+Bib ID 113351:                     Suppressed
+Update Bib Status:                 N/A
+Update Holding Status:             N/A
+Update Item Status:                Processed.
+
+Item ID:                           131874
+Barcode:                           345500000014650
+Title:                             Tiny seed / Eric Carle.
+Enum/Chron:                        
+Call Number:                       581.31 C27 1989
+Call Number Prefix:                
+Holding Location:                  Youth collection, non-fic
+Permanent Location:                Youth collection, non-fic
+Temporary Location:                 / Cataloging Dept.
+Permanent Type:                    book
+Temporary Type:                    
+Media Type:                        
+Item Status:                       Not Charged, Missing
+Statistical Categories:            
+Magnetic Media:                    No
+Sensitize:                         Yes
+Free Text:                         
+Copy Number:                       1
+Pieces Number:                     1
+Price:                             0.00
+MFHD ID 116368:                    Suppressed
+Bib ID 113412:                     Suppressed
+Update Bib Status:                 N/A
+Update Holding Status:             N/A
+Update Item Status:                Processed.

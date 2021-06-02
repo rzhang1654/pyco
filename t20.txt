@@ -1,0 +1,8 @@
+z.[0-9] zi0
+z.[0-9] za
+[r-u][env-y][us] uxs1
+[r-u][env-y][us] rus1
+[^aeiou]..1 p,,1
+[^aeiou]..1 a,,1
+["-a] p
+["-a] a

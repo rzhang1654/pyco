@@ -1,0 +1,2 @@
+\A(?!.*net).* host1.net 
+\A(?!.*net).* host1.com 
